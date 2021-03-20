@@ -5,7 +5,7 @@ celery==3.1.18
 Flask==0.10.1
 Flask-SQLAlchemy==2.0
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 kombu==3.0.26
 MarkupSafe==0.23
 passlib==1.6.2
